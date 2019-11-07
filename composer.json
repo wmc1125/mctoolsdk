@@ -1,0 +1,20 @@
+{
+    "name": "wmc1125/mctoolsdk",
+    "description": "mctool常用工具",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wmc1125",
+            "email": "287851074@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wmc1125\\Mctoolsdk\\": "src/"
+        }
+    }
+}
