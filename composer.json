@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Wmc1125\\Mctoolsdk\\": "src/"
+            "Wmc1125\\Mctoolsdk\\": "src"
         }
     }
 }
